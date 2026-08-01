@@ -137,19 +137,20 @@ Clusters:
 
 ## 📈 Regression
 
-*(Add Screenshot)*
+![Regression](screenshots/reg.png)
 
 ---
 
 ## 🚨 Classification
 
-*(Add Screenshot)*
+
+![Classification](screenshots/classi.png)
 
 ---
 
 ## 🌍 Clustering
 
-*(Add Screenshot)*
+![Clustering](screenshots/cluster.png)
 
 ---
 
