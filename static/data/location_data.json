@@ -1,0 +1,1324 @@
+{
+  "Afghanistan": {
+    "Badakhshan": [
+      "Arghanj Khwah",
+      "Argo",
+      "Baharak",
+      "Darayem",
+      "Darwaz-e-Balla",
+      "Darwaz-e-Payin",
+      "Eshkashem",
+      "Fayzabad",
+      "Jorm",
+      "Keshem",
+      "Khash",
+      "Khwahan",
+      "Kofab",
+      "Kohistan",
+      "Koran Wa Monjan",
+      "Raghestan",
+      "Shahr-e-Buzorg",
+      "Shaki",
+      "Shighnan",
+      "Shuhada",
+      "Tagab",
+      "Teshkan",
+      "Wakhan",
+      "Warduj",
+      "Yaftal-e-Sufla",
+      "Yamgan",
+      "Yawan",
+      "Zebak"
+    ],
+    "Badghis": [
+      "Ab Kamari",
+      "Bala Murghab",
+      "Ghormach",
+      "Jawand",
+      "Muqur",
+      "Qadis",
+      "Qala-e-Naw"
+    ],
+    "Baghlan": [
+      "Andarab",
+      "Baghlan-e-Jadid",
+      "Burka",
+      "Dahana-e-Ghori",
+      "Deh Salah",
+      "Doshi",
+      "Fereng Wa Gharu",
+      "Guzargah-e-Nur",
+      "Khinjan",
+      "Khost Wa Fereng",
+      "Khwaja Hejran",
+      "Nahrin",
+      "Pul-e-Hisar",
+      "Pul-e-Khumri",
+      "Tala Wa Barfak"
+    ],
+    "Balkh": [
+      "Balkh",
+      "Char Bolak",
+      "Charkent",
+      "Chemtal",
+      "Dawlat Abad",
+      "Dehdadi",
+      "Kaldar",
+      "Keshendeh",
+      "Khulm",
+      "Marmul",
+      "Mazar-e-Sharif",
+      "Nahr-e-Shahi",
+      "Sharak-e-Hayratan",
+      "Sholgareh",
+      "Shortepa",
+      "Zari"
+    ],
+    "Bamyan": [
+      "Bamyan",
+      "Kahmard",
+      "Panjab",
+      "Sayghan",
+      "Shibar",
+      "Waras",
+      "Yakawlang"
+    ],
+    "Daykundi": [
+      "Ashtarlay",
+      "Kajran",
+      "Khadir",
+      "Kiti",
+      "Miramor",
+      "Nili",
+      "Patoo",
+      "Sang-e-Takht",
+      "Shahrestan"
+    ],
+    "Farah": [
+      "Anar Dara",
+      "Bakwa",
+      "Bala Buluk",
+      "Farah",
+      "Gulistan",
+      "Khak-e-Safed",
+      "Lash-e-Juwayn",
+      "Pur Chaman",
+      "Pushtrod",
+      "Qala-e-Kah",
+      "Shibkoh"
+    ],
+    "Faryab": [
+      "Almar",
+      "Andkhoy",
+      "Bilcheragh",
+      "Dawlat Abad",
+      "Garzewan",
+      "Khan-e-Char Bagh",
+      "Khwaja Sabz Posh",
+      "Kohistan",
+      "Maymana",
+      "Pashtun Kot",
+      "Qaram Qul",
+      "Qaysar",
+      "Qurghan",
+      "Shirin Tagab"
+    ],
+    "Ghazni": [
+      "Ab Band",
+      "Ajristan",
+      "Andar",
+      "Deh Yak",
+      "Gelan",
+      "Ghazni",
+      "Giro",
+      "Jaghatu",
+      "Jaghuri",
+      "Khwaja Umari",
+      "Malistan",
+      "Muqur",
+      "Nawa",
+      "Nawur",
+      "Qara Bagh",
+      "Rashidan",
+      "Waghaz",
+      "Wal-e-Muhammad-e-Shahid",
+      "Zanakhan"
+    ],
+    "Ghor": [
+      "Charsadra",
+      "Dawlatyar",
+      "DoLayna",
+      "Feroz Koh",
+      "Lal Wa Sarjangal",
+      "Pasaband",
+      "Saghar",
+      "Shahrak",
+      "Taywarah",
+      "Tolak"
+    ],
+    "Hilmand": [
+      "Baghran",
+      "Deh-e-Shu",
+      "Garmser",
+      "Kajaki",
+      "Lashkargah",
+      "Musa Qala",
+      "Nad-e-Ali",
+      "Nahr-e-Saraj",
+      "Nawa-e-Barakzaiy",
+      "Nawzad",
+      "Reg-i-Khan Nishin",
+      "Sangin",
+      "Washer"
+    ],
+    "Hirat": [
+      "Adraskan",
+      "Chisht-e-Sharif",
+      "Farsi",
+      "Ghoryan",
+      "Gulran",
+      "Guzara",
+      "Hirat",
+      "Injil",
+      "Karukh",
+      "Kohsan",
+      "Kushk",
+      "Kushk-e-Kuhna",
+      "Obe",
+      "Pashtun Zarghun",
+      "Shindand",
+      "Zindajan"
+    ],
+    "Jawzjan": [
+      "Aqcha",
+      "Darzab",
+      "Fayzabad",
+      "Khamyab",
+      "Khanaqa",
+      "Khwaja Dukoh",
+      "Mardyan",
+      "Mingajik",
+      "Qarqin",
+      "Qush Tepa",
+      "Shiberghan"
+    ],
+    "Kabul": [
+      "Bagrami",
+      "Chahar Asyab",
+      "Deh Sabz",
+      "Estalef",
+      "Farza",
+      "Guldara",
+      "Kabul",
+      "Kalakan",
+      "Khak-e-Jabbar",
+      "Mir Bacha Kot",
+      "Musahi",
+      "Paghman",
+      "Qara Bagh",
+      "Shakar Dara",
+      "Surobi"
+    ],
+    "Kandahar": [
+      "Arghandab",
+      "Arghestan",
+      "Daman",
+      "Ghorak",
+      "Kandahar",
+      "Khakrez",
+      "Maruf",
+      "Maywand",
+      "Miyanshin",
+      "Nesh",
+      "Panjwayi",
+      "Reg",
+      "Shah Wali Kot",
+      "Shorabak",
+      "Spin Boldak",
+      "Zheray"
+    ],
+    "Kapisa": [
+      "Alasay",
+      "Hisa-e-Awal-e-Kohistan",
+      "Hisa-e-Duwum-e-Kohistan",
+      "Koh Band",
+      "Mahmood-e-Raqi",
+      "Nijrab",
+      "Tagab"
+    ],
+    "Khost": [
+      "Bak",
+      "Gurbuz",
+      "Jaji Maydan",
+      "Mandozayi",
+      "Matun",
+      "Musa Khel",
+      "Nadir Shah Kot",
+      "Qalandar",
+      "Sabari",
+      "Shamal",
+      "Spera",
+      "Tani",
+      "Terezayi"
+    ],
+    "Kunar": [
+      "Asad Abad",
+      "Bar Kunar",
+      "Chapa Dara",
+      "Chawkay",
+      "Dangam",
+      "Dara-e-Pech",
+      "Ghazi Abad",
+      "Khas Kunar",
+      "Marawara",
+      "Narang",
+      "Nari",
+      "Nurgal",
+      "Sar Kani",
+      "Shigal",
+      "Watapur"
+    ],
+    "Kunduz": [
+      "Ali Abad",
+      "Chahar Darah",
+      "Dasht-e-Archi",
+      "Imam Sahib",
+      "Khan Abad",
+      "Kunduz",
+      "Qala-e-Zal"
+    ],
+    "Laghman": [
+      "Alingar",
+      "Alishang",
+      "Dawlatshah",
+      "Mehtarlam",
+      "Qarghayi"
+    ],
+    "Logar": [
+      "Azra",
+      "Baraki Barak",
+      "Charkh",
+      "Kharwar",
+      "Khoshi",
+      "Mohammad Agha",
+      "Pul-e-Alam"
+    ],
+    "Maidan Wardak": [
+      "Chak-e-Wardak",
+      "Daymirdad",
+      "Hesa-e-Awal-e-Behsud",
+      "Jaghatu",
+      "Jalrez",
+      "Markaz-e-Behsud",
+      "Maydan Shahr",
+      "Nerkh",
+      "Saydabad"
+    ],
+    "Nangarhar": [
+      "Achin",
+      "Bati Kot",
+      "Behsud",
+      "Chaparhar",
+      "Dara-e-Nur",
+      "Deh Bala",
+      "Dur Baba",
+      "Goshta",
+      "Hesarak",
+      "Jalalabad",
+      "Kama",
+      "Khogyani",
+      "Kot",
+      "Kuz Kunar",
+      "Lalpur",
+      "Muhmand Dara",
+      "Nazyan",
+      "Pachir Wa Agam",
+      "Rodat",
+      "Sherzad",
+      "Shinwar",
+      "Surkh Rod"
+    ],
+    "Nimroz": [
+      "Chakhansur",
+      "Char Burjak",
+      "Kang",
+      "Khashrod",
+      "Zaranj"
+    ],
+    "Nuristan": [
+      "Barg-e-Matal",
+      "Duab",
+      "Kamdesh",
+      "Mandol",
+      "Nurgaram",
+      "Parun",
+      "Wama",
+      "Waygal"
+    ],
+    "Paktika": [
+      "Barmal",
+      "Dila",
+      "Giyan",
+      "Gomal",
+      "Jani Khel",
+      "Mata Khan",
+      "Nika",
+      "Omna",
+      "Sar Rawzah",
+      "Sharan",
+      "Surobi",
+      "Turwo",
+      "Urgun",
+      "Wazakhah",
+      "Wormamay",
+      "Yahya Khel",
+      "Yosuf Khel",
+      "Zarghun Shahr",
+      "Ziruk"
+    ],
+    "Paktya": [
+      "Ahmadaba",
+      "Chamkani",
+      "Dand Wa Patan",
+      "Gardez",
+      "Jaji",
+      "Jani Khel",
+      "Lija Ahmad Khel",
+      "Sayed Karam",
+      "Shawak",
+      "Zadran",
+      "Zurmat"
+    ],
+    "Panjsher": [
+      "Anawa",
+      "Bazarak",
+      "Dara",
+      "Khenj",
+      "Paryan",
+      "Rukha",
+      "Shutul"
+    ],
+    "Parwan": [
+      "Bagram",
+      "Charikar",
+      "Ghorband",
+      "Jabal Saraj",
+      "Koh-e-Safi",
+      "Salang",
+      "Sayed Khel",
+      "Shekh Ali",
+      "Shinwari",
+      "Surkh-e-Parsa"
+    ],
+    "Samangan": [
+      "Aybak",
+      "Dara-e-Suf-e-Bala",
+      "Dara-e-Suf-e-Payin",
+      "Feroz Nakhchir",
+      "Hazrat-e-Sultan",
+      "Khulm",
+      "Khuram Wa Sarbagh",
+      "Ruy-e-Duab"
+    ],
+    "Sar-e-Pul": [
+      "Balkhab",
+      "Gosfandi",
+      "Kohestanat",
+      "Sancharak",
+      "Sar-e-Pul",
+      "Sayad",
+      "Sozmaqala"
+    ],
+    "Takhar": [
+      "Baharak",
+      "Bangi",
+      "Chahab",
+      "Chal",
+      "Darqad",
+      "Dasht-e-Qala",
+      "Eshkmesh",
+      "Farkhar",
+      "Hazar Sumuch",
+      "Kalafgan",
+      "Khwaja Bahawuddin",
+      "Khwaja Ghar",
+      "Namak Ab",
+      "Rostaq",
+      "Taloqan",
+      "Warsaj",
+      "Yangi Qala"
+    ],
+    "Uruzgan": [
+      "Chinarto",
+      "Chora",
+      "Dehrawud",
+      "Gizab",
+      "Khas Uruzgan",
+      "Shahid-e-Hassas",
+      "Tirinkot"
+    ],
+    "Zabul": [
+      "Arghandab",
+      "Atghar",
+      "Daychopan",
+      "Kakar",
+      "Mizan",
+      "Nawbahar",
+      "Qalat",
+      "Shah Joi",
+      "Shamul Zayi",
+      "Shinkay",
+      "Tarnak Wa Jaldak"
+    ]
+  },
+  "Haiti": {
+    "Ouest": [
+      "Anse a Galets",
+      "Arcahaie",
+      "Cabaret",
+      "Carrefour",
+      "Cite Soleil",
+      "Cornillon / Grand Bois",
+      "Croix-Des-Bouquets",
+      "Delmas",
+      "Fonds-Verrettes",
+      "Ganthier",
+      "Grand-Goave",
+      "Gressier",
+      "Kenscoff",
+      "Leogane",
+      "Petion-Ville",
+      "Petit-Goave",
+      "Pointe a Raquette",
+      "Port-au-Prince",
+      "Tabarre",
+      "Thomazeau"
+    ],
+    "Sud-Est": [
+      "Anse-a-Pitre",
+      "Bainet",
+      "Belle Anse",
+      "Cayes-Jacmel",
+      "Cotes de Fer",
+      "Grand Gosier",
+      "Jacmel",
+      "La Vallee",
+      "Marigot",
+      "Thiotte"
+    ],
+    "Nord": [
+      "Acul du Nord",
+      "Bahon",
+      "Bas Limbe",
+      "Borgne",
+      "Cap-Haitien",
+      "Dondon",
+      "Grande Riviere Du Nord",
+      "La Victoire",
+      "Limbe",
+      "Limonade",
+      "Milot",
+      "Pignon",
+      "Pilate",
+      "Plaine du Nord",
+      "Plaisance",
+      "Port-Margot",
+      "Quartier Morin",
+      "Ranquitte",
+      "Saint-Raphael"
+    ],
+    "Nord-Est": [
+      "Capotille",
+      "Caracol",
+      "Carice",
+      "Ferrier",
+      "Fort-Liberte",
+      "Mombin Crochu",
+      "Mont-Organise",
+      "Ouanaminthe",
+      "Perches",
+      "Sainte Suzanne",
+      "Terrier Rouge",
+      "Trou du Nord",
+      "Vallieres"
+    ],
+    "Artibonite": [
+      "Anse Rouge",
+      "Desdunes",
+      "Dessalines",
+      "Ennery",
+      "Gonaives",
+      "Grande Saline",
+      "Gros Morne",
+      "L'Estere",
+      "La Chapelle",
+      "Marmelade",
+      "Petite Riviere de l'Artibonite",
+      "Saint-Marc",
+      "Saint-Michel de l'Attalaye",
+      "Terre Neuve",
+      "Verrettes"
+    ],
+    "Centre": [
+      "Belladere",
+      "Boucan Carre",
+      "Cerca Carvajal",
+      "Cerca La Source",
+      "Hinche",
+      "Lascahobas",
+      "Maissade",
+      "Mirebalais",
+      "Saut d'Eau",
+      "Savanette",
+      "Thomassique",
+      "Thomonde"
+    ],
+    "Sud": [
+      "Aquin",
+      "Arniquet",
+      "Camp-Perrin",
+      "Cavaillon",
+      "Chantal",
+      "Chardonnieres",
+      "Coteaux",
+      "Ile a Vache",
+      "Les Anglais",
+      "Les Cayes",
+      "Maniche",
+      "Port-Salut",
+      "Port-a-Piment",
+      "Roche a Bateau",
+      "Saint Jean du Sud",
+      "Saint Louis du Sud",
+      "Tiburon",
+      "Torbeck"
+    ],
+    "Grande'Anse": [
+      "Abricots",
+      "Anse d'Hainault",
+      "Beaumont",
+      "Bonbon",
+      "Chambellan",
+      "Corail",
+      "Dame Marie",
+      "Jeremie",
+      "Les Irois",
+      "Moron",
+      "Pestel",
+      "Roseaux"
+    ],
+    "Nord-Ouest": [
+      "Anse-a-Foleur",
+      "Baie de Henne",
+      "Bassin Bleu",
+      "Bombardopolis",
+      "Chamsolme",
+      "Jean Rabel",
+      "La Tortue",
+      "Mole Saint Nicolas",
+      "Port-de-Paix",
+      "Saint-Louis du Nord"
+    ],
+    "Nippes": [
+      "Anse-a-Veau",
+      "Arnaud",
+      "Baraderes",
+      "Fonds des Negres",
+      "Grand-Boucan",
+      "L'Asile",
+      "Miragoane",
+      "Paillant",
+      "Petit Trou de Nippes",
+      "Petite Riviere de Nippes",
+      "Plaisance du Sud"
+    ]
+  },
+  "Chad": {
+    "Sila": [
+      "Abdi",
+      "Kimiti"
+    ],
+    "Salamat": [
+      "Aboudéia",
+      "Bahr-Azoum",
+      "Haraze-Mangueigne"
+    ],
+    "Guéra": [
+      "Abtouyour",
+      "Barh-Signaka",
+      "Guéra",
+      "Mangalmé"
+    ],
+    "Ennedi Est": [
+      "Am-Djarass",
+      "Wadi Hawar"
+    ],
+    "Ouaddaï": [
+      "Assoungha",
+      "Djourf Al Ahmar",
+      "Ouara"
+    ],
+    "Chari-Baguirmi": [
+      "Baguirmi",
+      "Chari",
+      "Loug-Chari"
+    ],
+    "Moyen-Chari": [
+      "Bahr-Köh",
+      "Grande Sido",
+      "Lac Iro"
+    ],
+    "Barh-El-Gazel": [
+      "Barh-El-Gazel Nord",
+      "Barh-El-Gazel Ouest",
+      "Barh-El-Gazel Sud"
+    ],
+    "Mandoul": [
+      "Barh-Sara",
+      "Mandoul Occidental",
+      "Mandoul Oriental"
+    ],
+    "Batha": [
+      "Batha Est",
+      "Batha Ouest",
+      "Fitri"
+    ],
+    "Wadi Fira": [
+      "Biltine",
+      "Dar-Tama",
+      "Kobé",
+      "Mégri"
+    ],
+    "Borkou": [
+      "Borkou",
+      "Borkou Yala"
+    ],
+    "Hadjer-Lamis": [
+      "Dababa",
+      "Dagana",
+      "Haraze-Al-Biar"
+    ],
+    "Logone Occidental": [
+      "Dodjé",
+      "Guéni",
+      "Lac Wey",
+      "Ngourkosso"
+    ],
+    "Ennedi Ouest": [
+      "Fada",
+      "Mourtcha"
+    ],
+    "Lac": [
+      "Fouli",
+      "Kaya",
+      "Mamdi",
+      "Wayi"
+    ],
+    "Mayo-Kebbi Est": [
+      "Kabbia",
+      "Mayo-Boneye",
+      "Mayo-Lemié",
+      "Mont Illi"
+    ],
+    "Kanem": [
+      "Kanem",
+      "Nord Kanem",
+      "Wadi Bissam"
+    ],
+    "Logone Oriental": [
+      "Kouh Est",
+      "Kouh Ouest",
+      "La Nya",
+      "La Nya Pendé",
+      "La Pendé",
+      "Monts de Lam"
+    ],
+    "Mayo-Kebbi Ouest": [
+      "Lac Léré",
+      "Mayo-Binder",
+      "Mayo-Dallah"
+    ],
+    "N'Djamena": [
+      "N'Djaména"
+    ],
+    "Tandjilé": [
+      "Tandjile Ouest",
+      "Tandjilé Centre",
+      "Tandjilé Est"
+    ],
+    "Tibesti": [
+      "Tibesti Est",
+      "Tibesti Ouest"
+    ],
+    "SILA": [
+      "Abdi",
+      "Kimiti"
+    ],
+    "SALAMAT": [
+      "Aboudeia",
+      "Bahr Azoum",
+      "Haraze Mangueigne"
+    ],
+    "GUÉRA": [
+      "Abtouyour",
+      "Bahar Signaka",
+      "Guéra",
+      "Mangalmé"
+    ],
+    "ENNEDI EST": [
+      "Amdjarass",
+      "Wadi Hawar"
+    ],
+    "OUADDAÏ": [
+      "Assoungha",
+      "Djourf Al Ahmar",
+      "Ouara"
+    ],
+    "CHARI BAGUIRMI": [
+      "Baguirmi",
+      "Chari",
+      "Loug Chari"
+    ],
+    "MOYEN CHARI": [
+      "Bahr Koh",
+      "Grande Sido",
+      "Lac Iro"
+    ],
+    "BARH EL GAZEL": [
+      "Barh El Gazel Nord",
+      "Barh El Gazel Ouest",
+      "Barh El Gazel Sud"
+    ],
+    "MANDOUL": [
+      "Barh Sara",
+      "Mandoul Occidental",
+      "Mandoul Oriental"
+    ],
+    "BATHA": [
+      "Batha Est",
+      "Batha Ouest",
+      "Fitri"
+    ],
+    "WADI FIRA": [
+      "Biltine",
+      "Dar Tama",
+      "Kobé",
+      "Megri"
+    ],
+    "BORKOU": [
+      "Borkou",
+      "Borkou Yala"
+    ],
+    "HADJER LAMIS": [
+      "Dababa",
+      "Dagana",
+      "Haraze Al Biar"
+    ],
+    "LOGONE OCCIDENTAL": [
+      "Djode",
+      "Gueni",
+      "Lac wey",
+      "Ngourkosso"
+    ],
+    "ENNEDI OUEST": [
+      "Fada",
+      "Mourtcha"
+    ],
+    "LAC": [
+      "Fouli",
+      "Kaya",
+      "Mamdi",
+      "Wayi"
+    ],
+    "KANEM": [
+      "Kanem",
+      "Nord Kanem",
+      "Wadi Bissam"
+    ],
+    "LOGONE ORIENTAL": [
+      "Kouh Est",
+      "Kouh Ouest",
+      "La Nya pendé",
+      "La nya",
+      "La pendé",
+      "Monts de lam"
+    ],
+    "MAYO KEBBI EST": [
+      "La kabbia",
+      "Mayo Boneye",
+      "Mayo Lemyé",
+      "Mont Illi"
+    ],
+    "MAYO KEBBI OUEST": [
+      "Lac Léré",
+      "Mayo Binder",
+      "Mayo Dallah"
+    ],
+    "N'DJAMENA": [
+      "N'Djamena"
+    ],
+    "TANDJILÉ": [
+      "Tandjilé Centre",
+      "Tandjilé Est",
+      "Tandjilé Ouest"
+    ],
+    "TIBESTI": [
+      "Tibesti Est",
+      "Tibesti Ouest"
+    ]
+  },
+  "Central African Republic": {
+    "Basse-Kotto": [
+      "Alindao",
+      "Kembé",
+      "Mobaye",
+      "Satéma",
+      "Zangba"
+    ],
+    "Ouaka": [
+      "Bakala",
+      "Bambari",
+      "Ippy",
+      "Kouango"
+    ],
+    "Mbomou": [
+      "Bakouma",
+      "Bangassou",
+      "Gambo",
+      "Ouango",
+      "Rafai"
+    ],
+    "Haut-Mbomou": [
+      "Bambouti",
+      "Djéma",
+      "Mboki",
+      "Obo",
+      "Zémio"
+    ],
+    "Bamingui-Bangoran": [
+      "Bamingui",
+      "Ndélé"
+    ],
+    "Bangui": [
+      "Bangui-Centre",
+      "Bangui-Fleuve",
+      "Bangui-Kagas",
+      "Bangui-Rapide"
+    ],
+    "Ouham-Fafa": [
+      "Batangafo",
+      "Bouca",
+      "Kabo",
+      "Sido"
+    ],
+    "Mambéré-Kadéï": [
+      "Berbérati"
+    ],
+    "Vakaga": [
+      "Birao",
+      "Ouanda-Djallé",
+      "Ouandja"
+    ],
+    "Ouham Pendé": [
+      "Bocaranga",
+      "Bossemtélé",
+      "Bozoum",
+      "Koui"
+    ],
+    "Lobaye": [
+      "Boda",
+      "Boganangone",
+      "Boganda",
+      "Mbaïki",
+      "Moboma",
+      "Mongoumba"
+    ],
+    "Ombella M'Poko": [
+      "Bogangolo",
+      "Damara",
+      "Yaloké"
+    ],
+    "Ouham": [
+      "Bossangoa",
+      "Markounda",
+      "Nana-Bakassa",
+      "Nangha Boguila"
+    ],
+    "Haute-Kotto": [
+      "Bria",
+      "Ouadda",
+      "Yalinga"
+    ],
+    "Kémo": [
+      "Dékoa",
+      "Mala",
+      "Ndjoukou",
+      "Sibut"
+    ],
+    "Nana-Gribizi": [
+      "Kaga-Bandoro",
+      "Mbrès",
+      "Nana-Outa"
+    ],
+    "Lim-pendé": [
+      "Kodi",
+      "Ndim",
+      "Ngaoundaye",
+      "Paoua",
+      "Taley"
+    ],
+    " Basse-Kotto": [
+      "Alindao",
+      "Kembé",
+      "Mobaye",
+      "Satema",
+      "Zangba"
+    ],
+    " Vakaga": [
+      "Am-Dafock",
+      "Birao",
+      "Ouandja"
+    ],
+    " Mbomou": [
+      "Bakouma",
+      "Bangassou",
+      "Gambo",
+      "Ouango",
+      "Rafaï"
+    ],
+    " Ouaka": [
+      "Bambari",
+      "Ippy",
+      "Kouango"
+    ],
+    " Haut-Mbomou": [
+      "Bambouti",
+      "Djemah",
+      "Mboki",
+      "Obo",
+      "Zémio"
+    ],
+    " Bamingui-Bangoran": [
+      "Baminigui",
+      "Ndélé"
+    ],
+    " Bangui": [
+      "Bangui Centre",
+      "Bangui Fleuve",
+      "Bangui Kaga",
+      "Bangui Rapide"
+    ],
+    " Ouham-Fafa": [
+      "Bantangafo",
+      "Bouca",
+      "Kabo",
+      "Sido"
+    ],
+    "Nana-Mambéré": [
+      "Baoro",
+      "Bouar"
+    ],
+    " Ouham-Pendé": [
+      "Bocaranga",
+      "Bossemptele",
+      "Bozoum",
+      "Koui"
+    ],
+    " Lobaye": [
+      "Boda",
+      "Boganangone",
+      "Boganda",
+      "M'Baîki",
+      "Mongoumba"
+    ],
+    " Ombella-M'Poko": [
+      "Bogangolo",
+      "Bossembélé",
+      "Damara",
+      "Yaloké"
+    ],
+    " Ouham": [
+      "Bossangoa",
+      "Markounda",
+      "Nana-Bakassa",
+      "Nanga-Boguila"
+    ],
+    " Haute-Kotto": [
+      "Bria",
+      "Ouadda",
+      "Yalinga"
+    ],
+    " Kémo": [
+      "Dekoa",
+      "Mala",
+      "Ndjoukou",
+      "Sibut"
+    ],
+    " Nana-Gribizi": [
+      "Kaga-Bandoro",
+      "Mbrès",
+      "Nana-Outa"
+    ],
+    "Lim-Pendé": [
+      "Kodi",
+      "Ndim",
+      "Ngaoundaye",
+      "Paoua",
+      "Taley"
+    ]
+  },
+  "Mozambique": {
+    "Cabo Delgado": [
+      "Ancuabe",
+      "Balama",
+      "Chiure",
+      "Cidade De Pemba",
+      "Ibo",
+      "Macomia",
+      "Mecufi",
+      "Meluco",
+      "Metuge",
+      "Mocimboa Da Praia",
+      "Montepuez",
+      "Mueda",
+      "Muidumbe",
+      "Namuno",
+      "Nangade",
+      "Palma",
+      "Quissanga"
+    ],
+    "Nampula": [
+      "Erati",
+      "Memba"
+    ],
+    "Niassa": [
+      "Mecula"
+    ]
+  },
+  "Sudan": {
+    "South Kordofan": [
+      "Abassiya",
+      "Abu Jubayhah",
+      "Abu Kershola",
+      "Al Buram",
+      "Al Leri",
+      "Al Quoz",
+      "Ar Rashad",
+      "Ar Reif Ash Shargi",
+      "At Tadamon - SK",
+      "Delami",
+      "Dilling",
+      "Ghadeer",
+      "Habila - SK",
+      "Heiban",
+      "Kadugli",
+      "Talawdi",
+      "Um Durein"
+    ],
+    "River Nile": [
+      "Abu Hamad",
+      "Ad Damar",
+      "Al Buhaira",
+      "Al Matama",
+      "Atbara",
+      "Barbar",
+      "Shendi"
+    ],
+    "Sennar": [
+      "Abu Hujar",
+      "Ad Dali",
+      "Ad Dinder",
+      "As Suki",
+      "Sennar",
+      "Sharg Sennar",
+      "Sinja"
+    ],
+    "East Darfur": [
+      "Abu Jabrah",
+      "Abu Karinka",
+      "Ad Du'ayn",
+      "Adila",
+      "Al Firdous",
+      "Assalaya",
+      "Bahr Al Arab",
+      "Shia'ria",
+      "Yassin"
+    ],
+    "West Kordofan": [
+      "Abu Zabad",
+      "Abyei",
+      "Al Dibab",
+      "Al Idia",
+      "Al Khiwai",
+      "Al Lagowa",
+      "Al Meiram",
+      "An Nuhud",
+      "As Salam - WK",
+      "As Sunut",
+      "Babanusa",
+      "Ghubaish",
+      "Keilak",
+      "Wad Bandah"
+    ],
+    "Northern": [
+      "Ad Dabbah",
+      "Al Burgaig",
+      "Al Golid",
+      "Delgo",
+      "Dongola",
+      "Halfa",
+      "Merwoe"
+    ],
+    "White Nile": [
+      "Ad Diwaim",
+      "Aj Jabalain",
+      "Al Gitaina",
+      "As Salam / Ar Rawat",
+      "Guli",
+      "Kosti",
+      "Rabak",
+      "Tendalti",
+      "Um Rimta"
+    ],
+    "West Darfur": [
+      "Ag Geneina",
+      "Beida",
+      "Foro Baranga",
+      "Habila - WD",
+      "Jebel Moon",
+      "Kereneik",
+      "Kulbus",
+      "Sirba"
+    ],
+    "Red Sea": [
+      "Agig",
+      "Al Ganab",
+      "Dordieb",
+      "Hala'ib",
+      "Haya",
+      "Jubayt Elma'aadin",
+      "Port Sudan",
+      "Sawakin",
+      "Sinkat",
+      "Tawkar"
+    ],
+    "Gedaref": [
+      "Al Butanah",
+      "Al Fao",
+      "Al Fashaga",
+      "Al Galabat Al Gharbyah - Kassab",
+      "Al Mafaza",
+      "Al Qureisha",
+      "Ar Rahad",
+      "Basundah",
+      "Gala'a Al Nahal",
+      "Galabat Ash-Shargiah",
+      "Madeinat Al Gedaref",
+      "Wasat Al Gedaref"
+    ],
+    "North Darfur": [
+      "Al Fasher",
+      "Al Koma",
+      "Al Lait",
+      "Al Malha",
+      "As Serief",
+      "At Tawisha",
+      "At Tina",
+      "Dar As Salam",
+      "Kebkabiya",
+      "Kelemando",
+      "Kernoi",
+      "Kutum",
+      "Melit",
+      "Saraf Omra",
+      "Tawila",
+      "Um Baru",
+      "Um Kadadah"
+    ],
+    "Aj Jazirah": [
+      "Al Hasahisa",
+      "Al Kamlin",
+      "Al Manaqil",
+      "Al Qurashi",
+      "Janub Aj Jazirah",
+      "Medani Al Kubra",
+      "Sharg Aj Jazirah",
+      "Um Algura"
+    ],
+    "Blue Nile": [
+      "Al Kurmuk",
+      "Ar Rusayris",
+      "At Tadamon - BN",
+      "Baw",
+      "Ed Damazine",
+      "Geisan",
+      "Wad Al Mahi"
+    ],
+    "South Darfur": [
+      "Al Radoum",
+      "Al Wihda",
+      "As Salam - SD",
+      "As Sunta",
+      "Beliel",
+      "Buram",
+      "Damso",
+      "Ed Al Fursan",
+      "Gereida",
+      "Kas",
+      "Kateila",
+      "Kubum",
+      "Mershing",
+      "Nitega",
+      "Nyala Janoub",
+      "Nyala Shimal",
+      "Rehaid Albirdi",
+      "Sharg Aj Jabal",
+      "Shattaya",
+      "Tulus",
+      "Um Dafoug"
+    ],
+    "North Kordofan": [
+      "Ar Rahad",
+      "Bara",
+      "Gebrat Al Sheikh",
+      "Gharb Bara",
+      "Sheikan",
+      "Soudari",
+      "Um Dam Haj Ahmed",
+      "Um Rawaba"
+    ],
+    "Central Darfur": [
+      "Azum",
+      "Bendasi",
+      "Gharb Jabal Marrah",
+      "Mukjar",
+      "Shamal Jabal Marrah",
+      "Um Dukhun",
+      "Wadi Salih",
+      "Wasat Jabal Marrah",
+      "Zalingi"
+    ],
+    "Khartoum": [
+      "Bahri",
+      "Jebel Awlia",
+      "Karrari",
+      "Khartoum",
+      "Sharg An Neel",
+      "Um Bada",
+      "Um Durman"
+    ],
+    "Kassala": [
+      "Halfa Aj Jadeedah",
+      "Madeinat Kassala",
+      "Reifi Aroma",
+      "Reifi Gharb Kassala",
+      "Reifi Hamashkureib",
+      "Reifi Kassla",
+      "Reifi Khashm Elgirba",
+      "Reifi Nahr Atbara",
+      "Reifi Shamal Ad Delta",
+      "Reifi Telkok",
+      "Reifi Wad Elhilaiw"
+    ]
+  }
+}
