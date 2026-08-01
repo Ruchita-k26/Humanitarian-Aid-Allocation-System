@@ -131,7 +131,7 @@ Clusters:
 
 ## 🏠 Landing Page
 
-*(Add Screenshot)*
+![Landing Page](screenshots/land.png)
 
 ---
 
@@ -156,7 +156,7 @@ Clusters:
 
 ## 📊 Dashboard
 
-*(Add Screenshot)*
+![Dashboard](screenshots/dash.png)
 
 ---
 
